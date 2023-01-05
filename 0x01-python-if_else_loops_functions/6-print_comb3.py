@@ -5,4 +5,4 @@ for item in range(0, 10):
             if item < 8:
                 print("{}{}, ".format(item, i), end='')
             else:
-                    print("{}{}".format(item, i), end='')
+                    print("{}{}\n".format(item, i), end='')
